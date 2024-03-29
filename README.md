@@ -4,6 +4,11 @@
 
 Это web приложение позволяет управлять сообществом амбассадоров Яндекс Практикума, которое будет приносить прогнозиуремый поток маркетинговых привлечений в месяц.
 
+![FireShot Capture 032 - CRM - Profile](https://github.com/EvgenyZaryanov/CRM-Ambassador/assets/128030479/1aeae654-ba34-4e0b-8840-0a38fb533be9)  
+![FireShot Capture 033 - CRM - create profile](https://github.com/EvgenyZaryanov/CRM-Ambassador/assets/128030479/f24387e9-3edb-41ba-ae80-27fadf4b77ff)
+![FireShot Capture 035 - CRM - content](https://github.com/EvgenyZaryanov/CRM-Ambassador/assets/128030479/1ce01d2e-e706-4680-bbbc-d3a2fc8d13d6)
+
+
 [**Ссылка на оригинальный репозиторий проекта**](https://github.com/levinnsk/ambassador-hakaton)
 
 ## Применяемые технологии
